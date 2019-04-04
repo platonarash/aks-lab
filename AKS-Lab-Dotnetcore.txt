@@ -1,12 +1,12 @@
 **********  modified lab - DOTNET *********
 
 https://github.com/platonarash/aks-lab.git
-
 (https://github.com/pelithne/kubernetes-workshop/blob/master/workshop.md)
 
 
-AKS: RG: AKS, name: arraaks
-ACR: arraaksreg.azurecr.io
+https://www.docker.com/products/docker-desktop
+https://chocolatey.org/
+
 
 
 ********** DOCKER ***********
