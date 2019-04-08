@@ -245,9 +245,11 @@ This installation is on windows:
 ```markdown
 1. install https://chocolatey.org/
 
-2. choco install kubernetes-helm     -  https://chocolatey.org/packages/kubernetes-helm
+2a. choco install kubernetes-helm     -  https://chocolatey.org/packages/kubernetes-helm
+2b  choco install draft - https://chocolatey.org/packages/draft
 
-3. helm init
+3a. helm init
+3b. draft init
 
 4. kubectl create serviceaccount --namespace kube-system tiller
 
