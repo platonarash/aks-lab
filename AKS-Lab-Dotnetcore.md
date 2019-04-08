@@ -1,6 +1,7 @@
 
 # Azure Docker and AKS Lab - dotnetcore
 
+This is a lab for Windows users running an example Dot net core application in Azure AKS.
 
 *Prequisites:*
 
