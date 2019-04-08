@@ -3,6 +3,8 @@
 
 This is a lab for Windows users running an example Dot net core application in Azure AKS.
 
+Good to have: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 *Prequisites:*
 
 *1. Docker desktop installed*
